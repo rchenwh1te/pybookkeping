@@ -1,0 +1,11 @@
+tab1.py:
+general overview
+
+tab2:
+Account overview
+
+tab3:
+Incomes
+
+tab4:
+Outgoings
